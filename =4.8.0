@@ -1,0 +1,3 @@
+Looking in indexes: https://mirrors.cloud.aliyuncs.com/pypi/simple
+Requirement already satisfied: opencv-python in /root/anaconda3/envs/sd/lib/python3.10/site-packages (4.8.1.78)
+Requirement already satisfied: numpy>=1.21.2 in /root/anaconda3/envs/sd/lib/python3.10/site-packages (from opencv-python) (1.23.5)
